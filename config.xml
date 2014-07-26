@@ -51,8 +51,8 @@
     <gap:plugin name="org.apache.cordova.globalization" />
     <gap:plugin name="org.apache.cordova.device-motion" />
     <gap:plugin name="org.apache.cordova.device-orientation" />
- 
-  
+ <gap:plugin name="com.location9.dfencing" version="1" />
+   <!--
    <gap:plugin name="org.apache.cordova.camera" />
  
      <gap:plugin name="org.apache.cordova.battery-status" />
@@ -67,7 +67,7 @@
     <gap:plugin name="org.apache.cordova.network-information" />
    
     <gap:plugin name="org.apache.cordova.vibration" />
- <!---->
+-->
 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
